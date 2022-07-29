@@ -1,0 +1,9 @@
+<preferences.xml>
+  <somedata>
+   <favoritemovie>harry potter</favoritemovie>
+   <favoriteTVshow>picky blinders</favoriteTVshow>
+   <favoritefood>hachapuri</favoritefood>
+   <favoritetimeofyear>summer</favoritetimeofyear>
+   <countryiwouldliketovisit>Norway</countryiwouldliketovisit>
+  </somedata>
+</preferences>

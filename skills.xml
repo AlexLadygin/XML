@@ -1,0 +1,7 @@
+<newskills.xml>
+ <newworkskills>
+  <workingwithterminal>true</workingwithteminal>
+  <workingwithvscode>true</workingwithvscode>
+  <workingwithpostman>true</workingwithpostman>
+ </newworkskills>
+</newskills.xml>

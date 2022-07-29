@@ -1,0 +1,9 @@
+<new.xml>
+ <personaldata>
+  <firstName>Aleksandr</firstName>
+  <patronymic>Olegovich</patronymic>
+  <lastName>Ladygin</lastName>
+  <pets>null<</pets>
+  <futuresalary>3000dollars</futuresalary>
+  </personaldata>
+ </new.xml>
